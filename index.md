@@ -1,8 +1,7 @@
-# DSJ Services
+# DSJ Website
 
 ## Links
-- [DSJ Wiki](https://dsj-wiki.herokuapp.com/)
-<!-- - [API](http://limberdelimon.duckdns.org:36854/) -->
+- [API](https://dsj-api.herokuapp.com/)
 - [FileBrowser](http://limberdelimon.duckdns.org:47034/)
 
 # Games
