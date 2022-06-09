@@ -17,8 +17,10 @@
 
 ### Databases
 
-- Limber de Limon `limberdelimon.duckdns.org:49153`
-- Ion Pi `watershark.ddns.me:3306`
+| Database name | IP Address | Port |
+|---|---|---|
+| Limber de limon | `limberdelimon.duckdns.org` | `49153` |
+| Ion-Pi | `watershark.ddns.me` | `3306` |
 
 ## Games
 
