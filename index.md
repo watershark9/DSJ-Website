@@ -1,20 +1,31 @@
 # DSJ Website
 
-## Links
+## Web Applications
 
-- [API](https://dsj-api.herokuapp.com/)
 - [FileBrowser](http://limberdelimon.duckdns.org:47034/)
 - [FoundryVTT](http://limberdelimon.duckdns.org:30000/)
+- [Portainer](https://limberdelimon.duckdns.org:6691/)
+- [Plex](http://limberdelimon.duckdns.org:32400/web)
 
-# Games
 
-## Minecraft
+## Development
 
-### Java
+- [API](https://dsj-api.herokuapp.com/)
 
-#### Vanilla
+### Databases
 
-##### 1.19.1
+- Limber de Limon `limberdelimon.duckdns.org:49153`
+- Ion Pi `watershark.ddns.me:3306`
+
+## Games
+
+### Minecraft
+
+#### Java
+
+##### Vanilla
+
+###### 1.19.1
 
 | Server Name | IP Address |
 |---|---|
