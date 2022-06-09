@@ -14,7 +14,7 @@
 
 #### Vanilla
 
-##### 1.18.1
+##### 1.19.1
 
 | Server Name | IP Address |
 |---|---|
