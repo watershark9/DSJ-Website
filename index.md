@@ -1,4 +1,5 @@
 # DSJ Website
+![DSJ Logo](https://user-images.githubusercontent.com/36280805/172962964-1d65d29f-0509-4838-83f0-d764d5fb3d91.svg)
 
 ## Web Applications
 
@@ -9,6 +10,8 @@
 
 
 ## Development
+
+### Services
 
 - [API](https://dsj-api.herokuapp.com/)
 
