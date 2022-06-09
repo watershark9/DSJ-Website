@@ -21,12 +21,6 @@
 
 ### Minecraft
 
-#### Java
-
-##### Vanilla
-
-###### 1.19.1
-
-| Server Name | IP Address |
-|---|---|
-| Caprisun 2: Electric Bugaloo | `51.222.39.231:25592` |
+| Server Name | IP Address | Type | Version |
+|---|---|---|---|
+| Caprisun 2: Electric Bugaloo | `51.222.39.231:25592` | Vanilla | 1.19.1 |
