@@ -4,12 +4,16 @@
 
 ### Limber de limón
 
-| Service | Link |
-|---|---|
-| FileBrowser | [http://limberdelimon.duckdns.org:47034/](http://limberdelimon.duckdns.org:47034/) |
-| FoundryVTT | [http://limberdelimon.duckdns.org:30000/](http://limberdelimon.duckdns.org:30000/) |
-| Portainer | [https://limberdelimon.duckdns.org:6691/](https://limberdelimon.duckdns.org:6691/) |
-| Plex | [http://limberdelimon.duckdns.org:32400/web](http://limberdelimon.duckdns.org:32400/web) |
+- [File Browser](http://limberdelimon.duckdns.org:47034/)
+- [Portainer](https://limberdelimon.duckdns.org:6691/)
+- [Plex](http://limberdelimon.duckdns.org:32400/web)
+- [Nextcloud](http://limberdelimon.duckdns.org:16082/)
+
+### Water Shark
+
+- [FoundryVTT](http://watershark.ddns.me:30000/)
+- [File Browser](http://watershark.ddns.me:15721/)
+- [Portainer](https://watershark.ddns.me:6634/)
 
 ## Development
 
@@ -22,7 +26,7 @@
 | Database name | IP Address | Port |
 |---|---|---|
 | Limber de limon | `limberdelimon.duckdns.org` | `49153` |
-| Ion-Pi | `watershark.ddns.me` | `3306` |
+| Ion-Pi | `watershark.ddns.me` | `9774` |
 
 ## Games
 
