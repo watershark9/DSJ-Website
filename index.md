@@ -4,16 +4,16 @@
 
 ### Limber de limón
 
-- [File Browser](http://limberdelimon.duckdns.org:47034/)
-- [Portainer](https://limberdelimon.duckdns.org:6691/)
-- [Plex](http://limberdelimon.duckdns.org:32400/web)
-- [Nextcloud](http://limberdelimon.duckdns.org:16082/)
+- [File Browser](http:// frog.dsj.lol:47034/)
+- [Portainer](https:// frog.dsj.lol:6691/)
+- [Plex](http:// frog.dsj.lol:32400/web)
+- [Nextcloud](http:// frog.dsj.lol:16082/)
 
 ### Water Shark
 
-- [FoundryVTT](http://watershark.ddns.me:30000/)
-- [File Browser](http://watershark.ddns.me:15721/)
-- [Portainer](https://watershark.ddns.me:6634/)
+- [FoundryVTT](http:// shark.dsj.lol:30000/)
+- [File Browser](http:// shark.dsj.lol:15721/)
+- [Portainer](https:// shark.dsj.lol:6634/)
 
 ## Development
 
@@ -25,8 +25,8 @@
 
 | Database name | IP Address | Port |
 |---|---|---|
-| Limber de limon | `limberdelimon.duckdns.org` | `49153` |
-| Ion-Pi | `watershark.ddns.me` | `9774` |
+| Limber de limon | ` frog.dsj.lol` | `49153` |
+| Ion-Pi | ` shark.dsj.lol` | `9774` |
 
 ## Games
 
