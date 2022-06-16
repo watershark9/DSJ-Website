@@ -34,7 +34,7 @@
 
 | Server Name | IP Address | Java Edition Port | Bedrock Edition Port | Type | Version |
 |---|---|---|---|---|---|
-| Caprisun 2: Electric Bugaloo | `51.222.39.231` | `25592` | `8001` | Vanilla | 1.19.1 |
+| Caprisun 2: Electric Bugaloo | `caprisun2.dsj.lol` | `25592` | `8001` | Vanilla | 1.19.1 |
 
 ---
 ![DSJ Logo](https://user-images.githubusercontent.com/36280805/172962964-1d65d29f-0509-4838-83f0-d764d5fb3d91.svg)
