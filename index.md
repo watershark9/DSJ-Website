@@ -19,7 +19,7 @@
 
 ### Services
 
-- [API](https://dsj-api.herokuapp.com/)
+- [API](http://api.dsj.lol/)
 
 ### Databases
 
