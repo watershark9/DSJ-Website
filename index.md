@@ -4,29 +4,22 @@
 
 ### Limber de limón
 
-- [File Browser](http://frog.dsj.lol:47034/)
-- [Portainer](https://frog.dsj.lol:6691/)
+- [File Browser](https://filebrowser.dsj.lol/)
+- [Portainer](https://portainer.dsj.lol/)
 - [Plex](http://frog.dsj.lol:32400/web)
-- [Nextcloud](http://frog.dsj.lol:16082/)
-
-### Water Shark
-
-- [FoundryVTT](http://shark.dsj.lol:30000/)
-- [File Browser](http://shark.dsj.lol:15721/)
-- [Portainer](https://shark.dsj.lol:6634/)
+- [Nextcloud](https://nextcloud.dsj.lol/)
+- [FoundryVTT](https://dnd.dsj.lol/)
 
 ## Development
 
 ### Services
 
 - [API](http://api.dsj.lol/)
+- [NGINX](https://nginx.dsj.lol/)
 
-### Databases
-
-| Database name | IP Address | Port |
+|Name|IP|Port|
 |---|---|---|
-| Limber de limon | `frog.dsj.lol`| `49153`|
-| Ion-Pi | `shark.dsj.lol`| `9774`|
+|DSJ|`database.dsj.lol`|`9774`|
 
 ## Games
 
